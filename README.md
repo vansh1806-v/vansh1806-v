@@ -5,11 +5,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vansh1806-v&label=Profile%20views&color=0e75b6&style=flat" alt="vansh1806-v" /> </p>
 
-- 🌱 I’m currently learning **Java and Flutter**
+-AIR 3124 CS Gate 2026
+
+- 🌱 I’m currently learning **Java Backend and Spring Boot**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/vansh1806-v](https://github.com/vansh1806-v)
 
-- 💬 Ask me about **C Programming**
+- 💬 Ask me about ** Gate CS/IT
+- Java
+- Spring Boot**
 
 - 📫 How to reach me **vanshdhamecha88250@gmail.com**
 
